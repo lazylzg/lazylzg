@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-- 🔭 I’m currently working on my project [forum_sys](https://github.com/zguolee/forum_sys)
 - 🌱 I’m currently learning Vue.js
 - 💬 Ask me about anything [here](https://github.com/lazylzg/zguolee/issues)
 
 
-[![zguolee's github stats](https://github-readme-stats.vercel.app/api?username=zguolee&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/zguolee)
+[![zguolee's github stats](https://github-readme-stats.vercel.app/api?username=zguolee&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/zguolee)
