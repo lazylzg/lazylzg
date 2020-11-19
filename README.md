@@ -1,3 +1,7 @@
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=zguolee&&hide_border=true&count_private=true&show_icons=true&include_all_commits=true">
+</a>
+
 ### Hi there 👋
 
 <!--
@@ -17,6 +21,3 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Vue.js
 - 💬 Ask me about anything [here](https://github.com/zguolee/zguolee/issues)
-
-
-[![zguolee's github stats](https://github-readme-stats.vercel.app/api?username=zguolee&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/zguolee)
